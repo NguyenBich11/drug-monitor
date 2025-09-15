@@ -1,6 +1,5 @@
 let Drugdb = require('../model/model');
 
-
 // creates and saves a new drug
 exports.create = (req,res)=>{
     // validate incoming request
